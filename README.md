@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is the first stage of the ticket lifecycle, which is when the end user creates a help desk ticket. When an end user creates a ticket, they must include their email, full name, phone number, help topic, and a summary of the issue. This information allows the help desk employees to keep an open line of communication with the customer and determine the business impact.
 
 <br />
 
@@ -38,16 +38,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![assignment](https://github.com/user-attachments/assets/8d0245ef-720b-419e-9b9e-e62aabd6d5de)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+In the assignment and communication stage, the help desk employees discuss and assign the ticket to the department that correlates to the issue. This is also the stage where the SLA plan and the due date are determined.
 <br />
 
 
 ![working the ticket](https://github.com/user-attachments/assets/84b7af0f-5419-4be1-ac76-edb98ff33009)
 
 
+The last and final stage of the ticket lifecycle is working on the ticket and resolution. This consists of troubleshooting and fixing the issue. For example in this ticket, Jane was the agent that worked the ticket and found out that the outage was caused by a recent update.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <br />
 
